@@ -1,0 +1,6 @@
+{
+  "name": "Nova Dental Trinity",
+  "description": "A premium, modern, and multilingual dental clinic website for Nova Dental Trinity, featuring online booking, patient testimonials, interactive services, FAQs, and dual office information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
